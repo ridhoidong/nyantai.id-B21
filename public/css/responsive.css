@@ -1,0 +1,16 @@
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .top-wrapper h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .place-item {
+    width: 100%;
+  }
+}
