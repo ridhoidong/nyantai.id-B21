@@ -1,5 +1,12 @@
+/* Untuk Tablet */
+@media all and (max-width: 1300px) {
+  .place-item-desc {
+    min-height: 250px;
+  }
+}
+
 /* Untuk Smartphone */
-@media all and (max-width: 670px) {
+@media all and (max-width: 973px) {
   .top-wrapper h1 {
     font-size: 28px;
     line-height: 36px;
